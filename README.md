@@ -25,3 +25,9 @@ Smart contract should unlock access to the funds after a certain period of time 
 -----------------------------
 
 P.S> Certain mechanics and logic of smart contract should be worked on after stage 1.
+
+
+
+Stage 1: Should use https://www.ethereum.org/ blockchain infrastructure
+
+
